@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm always working on some cool stuff! Most of it is private though. 
 <!--
 **Hardik-Singh/Hardik-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
